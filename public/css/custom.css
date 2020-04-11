@@ -1,0 +1,16 @@
+.form-group.required label:after {
+    content: "*";
+    color: red;
+}
+
+.required {
+	color: red
+}
+
+.hideClass {
+	display: none;
+}
+
+.showClass {
+	display: block;
+}
