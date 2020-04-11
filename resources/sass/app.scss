@@ -1,0 +1,10 @@
+// base style
+@import "../template/src/assets/sass/style";
+// wizard style
+@import "../template/src/assets/sass/style/pages/wizard/wizar-1";
+
+// skins for template only
+@import "../template/src/assets/sass/global/layout/aside/skins/dark";
+@import "../template/src/assets/sass/global/layout/brand/skins/dark";
+@import "../template/src/assets/sass/global/layout/header/skins/base/light";
+@import "../template/src/assets/sass/global/layout/header/skins/menu/light";
