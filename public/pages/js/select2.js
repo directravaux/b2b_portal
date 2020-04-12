@@ -74,6 +74,12 @@ var KTSelect2 = {
         }), $("#kt_select2_9").select2({
             placeholder: "Select your Products",
             maximumSelectionLength: 5
+        }), $("#kt_select2_9_0").select2({
+            placeholder: "Select your Products",
+            maximumSelectionLength: 5
+        }), $("#kt_select2_9_1").select2({
+            placeholder: "Select your Products",
+            maximumSelectionLength: 5
         }), $("#kt_select2_10").select2({
             placeholder: "Select an option",
             minimumResultsForSearch: 1 / 0
